@@ -15,7 +15,7 @@
 
 ## ⇁ Who Am I?
 
-Hey, I'm Leonardo! I'm a first-year Master of Science in Cybersecurity student at the University of Nevada, Las Vegas (UNLV), expecting to graduate in 2028. I also earned my Bachelor's in Computer Science at UNLV, and I currently serve as Treasurer and Vice President of the Cyber Clinic. I'm absolutely obsessed with programming, breaking into software to figure out how it works, and finding ways to make it more sustainable and secure. Outside of school, I'm the founder of Aroya Development, an early-stage startup where we're building LebsAI, a trading platform.
+Hey, I'm Leonardo! I'm a first-year Master of Science in Cybersecurity student at the University of Nevada, Las Vegas (UNLV), expecting to graduate in 2028. I also earned my Bachelor's in Computer Science at UNLV, and I currently serve as Treasurer of the Cyber Clinic and Vice President of Layer Zero. I'm absolutely obsessed with programming, breaking into software to figure out how it works, and finding ways to make it more sustainable and secure. Outside of school, I'm the founder of Aroya Development, an early-stage startup where we're building LebsAI, a trading platform.
 
 ### What I'm doing now!
 
