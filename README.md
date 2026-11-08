@@ -15,7 +15,7 @@
 
 ## ⇁ Who Am I?
 
-Hey, I'm Leonardo! I'm a first-year Master of Science in Cybersecurity student at the University of Nevada, Las Vegas (UNLV), expecting to graduate in 2028. I also earned my Bachelor's in Computer Science at UNLV, and I currently serve as Treasurer of the Cyber Clinic and Vice President of Layer Zero. I'm absolutely obsessed with programming, breaking into software to figure out how it works, and finding ways to make it more sustainable and secure. Outside of school, I'm the founder of Aroya Development, an early-stage startup where we're building LebsAI, a trading platform.
+Hey, I'm Leonardo! I'm a first-year Master of Science in Cybersecurity student at the University of Nevada, Las Vegas (UNLV), expecting to graduate in 2028. I also earned my Bachelor's in Computer Science at UNLV, and I currently serve as Treasurer of the Cyber Clinic and Vice President of Layer Zero. I'm absolutely obsessed with programming, breaking into software to figure out how it works, and finding ways to make it more sustainable and secure. Outside of school, I'm one of three co-founders of Aroya Development, an early-stage startup where we're building LebsAI, a trading platform.
 
 ### What I'm doing now!
 
@@ -27,7 +27,7 @@ Hey, I'm Leonardo! I'm a first-year Master of Science in Cybersecurity student a
 - **Layer Zero**
   - Vice President
 - **Aroya Development**
-  - Founder, building LebsAI
+  - Co-Founder, building LebsAI
 
 ### Hobbies!
 
@@ -99,6 +99,6 @@ Hey, I'm Leonardo! I'm a first-year Master of Science in Cybersecurity student a
 
 ### LebsAI
 
-LebsAI is a trading platform being built by Aroya Development, the early-stage startup I founded. As founder, I help lead the vision and build the platform from the ground up.
+LebsAI is a trading platform being built by Aroya Development, an early-stage startup I co-founded with two partners. As a team of three founders, we're building the platform from the ground up and are currently raising our seed round.
 
 <!-- Add more details here: what LebsAI does, what it's built with, and a link if it's public -->
