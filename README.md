@@ -31,12 +31,14 @@ Hey, I'm Leonardo! I'm a first-year Master of Science in Cybersecurity student a
 
 ### Hobbies!
 
-- 💻 **Programming!**
-  - <!-- What kind of projects you like -->
-- 🎵 **Hobby:**
-  - <!-- Details -->
-- 🎮 **Hobby:**
-  - <!-- Details -->
+- 🏃 **Long Distance Running!**
+  <!-- - Details -->
+- 🥊 **Boxing!**
+  <!-- - Details -->
+- 🎵 **Music Advocate!**
+  <!-- - Details -->
+- 🧗 **Rock Climbing!**
+  <!-- - Details -->
 
 ## ⇁ Toolbox
 
