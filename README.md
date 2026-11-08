@@ -17,15 +17,6 @@
 
 Hey, I'm Leonardo! <!-- Write a short intro: school/year, what you focus on, what you love about programming -->
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LeonardoM1400&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="LeonardoM1400's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoM1400&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=LeonardoM1400&theme=tokyonight&hide_border=true" alt="LeonardoM1400 GitHub Streak" />
-</p>
-
 ### What I'm doing now!
 
 - **School:** <!-- e.g. University name -->
