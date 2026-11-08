@@ -19,11 +19,15 @@ Hey, I'm Leonardo! I'm a first-year Master of Science in Cybersecurity student a
 
 ### What I'm doing now!
 
-- **School:** <!-- e.g. University name -->
-  - <!-- Class -->
-  - <!-- Class -->
-- **Clubs / Work:**
-  - <!-- Role -->
+- **UNLV**
+  - M.S. in Cybersecurity (Expected 2028)
+  - CSEC 700
+- **Cyber Clinic**
+  - Treasurer
+- **Layer Zero**
+  - Vice President
+- **Aroya Development**
+  - Founder, building LebsAI
 
 ### Hobbies!
 
