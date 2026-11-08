@@ -97,10 +97,8 @@ Hey, I'm Leonardo! I'm a first-year Master of Science in Cybersecurity student a
 
 ## ⇁ Currently Working On
 
-### Project Name
+### LebsAI
 
-<!-- Describe what it does, what it's built with, and why it's cool -->
+LebsAI is a trading platform being built by Aroya Development, the early-stage startup I founded. As founder, I help lead the vision and build the platform from the ground up.
 
-<!-- Repo card: replace REPO_NAME
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LeonardoM1400&repo=REPO_NAME&theme=tokyonight&hide_border=true)](https://github.com/LeonardoM1400/REPO_NAME)
--->
+<!-- Add more details here: what LebsAI does, what it's built with, and a link if it's public -->
